@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+body{
+    background-color: #eee;
+}
+.entirePage {
+    width: 100%;
+    overflow: scroll;
+}
+.headerPage {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    background-color: #A8A8A8;
+    float: left;
+    width: 94%;
+    clear: none;
+}
+.uploadPage {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    background-color: #eee;
+    float: left;
+    clear: none;
+    width: 94%;
+    overflow: scroll;
+}
+.Button_class {
+  padding: 5px 10px 5px !important;
+  font-size: 13px !important;
+  background-color: #2894E3;
+  color: #ffffff;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border: 1px solid #333;
+  font-style: oblique;
+  float: center;
+}
+table,td,th {
+    border: 1px solid black;
+}
+th, td {
+    padding: 5px;
+    align-content: center;
+}
+.imagePage {
+    padding-left: 3%;
+    padding-right: 3%;    
+    background-color: #eee;
+    float: left;
+    overflow: scroll;
+    clear: none;
+    width: 94%;
+}
